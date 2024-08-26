@@ -12,3 +12,7 @@ The goal of this deep learning project Fake Currency Detection is to use image a
 2. OpenCV
 3. TensorFlow/Keras
 4. Google Colab
+
+## 🤝 Contributions
+
+Contributions are welcome! Please open an issue or submit a pull request for any changes or improvements.
